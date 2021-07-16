@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Diabeto-EC.iml" filepath="$PROJECT_DIR$/.idea/Diabeto-EC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/certificat-medical/certificat-medical.iml" filepath="$PROJECT_DIR$/certificat-medical/certificat-medical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evacuation/evacuation.iml" filepath="$PROJECT_DIR$/evacuation/evacuation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examen-clinique/examen-clinique.iml" filepath="$PROJECT_DIR$/examen-clinique/examen-clinique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orientation/orientation.iml" filepath="$PROJECT_DIR$/orientation/orientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rapport-medical/rapport-medical.iml" filepath="$PROJECT_DIR$/rapport-medical/rapport-medical.iml" />
+    </modules>
+  </component>
+</project>

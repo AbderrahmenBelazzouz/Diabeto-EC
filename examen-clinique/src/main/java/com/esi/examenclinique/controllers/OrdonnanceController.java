@@ -11,7 +11,7 @@ import java.util.List;
 public class OrdonnanceController {
     @Autowired
     private OrdonnanceService ordonnanceService;
-
+ 
     @PostMapping("/addOrd")
     public Ordonnance addOrdonnance(@RequestBody Ordonnance ordonnance){
         return ordonnanceService.saveOrdonnance(ordonnance);
